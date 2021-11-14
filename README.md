@@ -1,6 +1,7 @@
 # Сборка для работы по уроку вёрстки на YouTube
 
-Ссылка на урок: https://youtu.be/msYRNYi8zvk
+Ссылка на урок 1: https://youtu.be/msYRNYi8zvk
+Ссылка на урок 2: https://youtu.be/HEnAkbitnXw
 
 ## Установка и запуск проекта
 
