@@ -10,7 +10,7 @@
 
 ```
 npm install
-npm run dev
+npm start
 ```
 
 либо, если у вас настроены Make-файлы
