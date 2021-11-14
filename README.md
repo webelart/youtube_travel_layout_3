@@ -1,5 +1,6 @@
 # Сборка для работы по уроку вёрстки на YouTube
 
+* Ссылка на макет: https://clck.ru/X9cdC
 * Ссылка на урок 1: https://youtu.be/msYRNYi8zvk
 * Ссылка на урок 2: https://youtu.be/HEnAkbitnXw
 
